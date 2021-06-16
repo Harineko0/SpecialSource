@@ -10,7 +10,7 @@
 
     <groupId>net.md-5</groupId>
     <artifactId>SpecialSource</artifactId>
-    <version>1.8.7-SNAPSHOT</version>
+    <version>1.10.0</version>
     <packaging>jar</packaging>
 
     <name>SpecialSource</name>
@@ -45,7 +45,7 @@
         <dependency>
             <groupId>org.ow2.asm</groupId>
             <artifactId>asm-commons</artifactId>
-            <version>7.3.1</version>
+            <version>9.1</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
